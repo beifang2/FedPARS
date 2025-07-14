@@ -15,7 +15,7 @@ FedPARS/
  │   ├── utils/                 # Utility functions
  │   ├── dataloader.py          # DataLoader
  │   ├── loss.py                # Loss functions
- │   ├── main.py                # Entry point
+ │   ├── main.py                # Main File
  │   └── options.py             # Configuration options
  └── README.md                  # README
 ```
