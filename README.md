@@ -32,7 +32,7 @@ The following environment was used during development:
 
 ## Dataset
 
-The experiments in this project are based on three widely used remote sensing datasets for **object extraction** tasks:
+The experiments in this project are based on three widely used remote sensing datasets for object extraction tasks:
 
 - [IAIL](https://project.inria.fr/aerialimagelabeling/): High-resolution aerial imagery labeled for building across diverse urban areas.
 - [BH-POOLS](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/): Satellite images focused on detecting swimming pools and water tanks.
