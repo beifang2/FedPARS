@@ -68,3 +68,14 @@ This will:
 - Initialize the federated learning server and clients
 - Begin training
 
+## Citation
+
+```
+@article{chen2025prototype,
+  title={Prototype-Aligned Federated Learning for Robust Object Extraction in Heterogeneous Remote Sensing},
+  author={Chen, Guangsheng and Li, Ming and Yuan, Ye and Lin, Moule and Zhang, Lianchong and Li, Chao and Zou, Weitao and Jing, Weipeng and Emam, Mahmoud},
+  journal={IEEE Internet of Things Journal},
+  year={2025},
+  publisher={IEEE}
+}
+```
