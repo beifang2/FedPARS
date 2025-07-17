@@ -69,7 +69,7 @@ This will:
 - Begin training
 
 ## Citation
-
+If you find our repository useful, please cite the corresponding paper:
 ```
 @article{chen2025prototype,
   title={Prototype-Aligned Federated Learning for Robust Object Extraction in Heterogeneous Remote Sensing},
