@@ -71,7 +71,7 @@ This will:
 ## Citation
 If you find our repository useful, please cite the corresponding paper:
 ```
-@ARTICLE{11077684,
+@ARTICLE{chen2025prototype,
   author={Chen, Guangsheng and Li, Ming and Yuan, Ye and Lin, Moule and Zhang, Lianchong and Li, Chao and Zou, Weitao and Jing, Weipeng and Emam, Mahmoud},
   journal={IEEE Internet of Things Journal}, 
   title={Prototype-Aligned Federated Learning for Robust Object Extraction in Heterogeneous Remote Sensing}, 
