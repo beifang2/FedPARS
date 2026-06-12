@@ -71,11 +71,14 @@ This will:
 ## Citation
 If you find our repository useful, please cite the corresponding paper:
 ```
-@article{chen2025prototype,
-  title={Prototype-Aligned Federated Learning for Robust Object Extraction in Heterogeneous Remote Sensing},
+@ARTICLE{11077684,
   author={Chen, Guangsheng and Li, Ming and Yuan, Ye and Lin, Moule and Zhang, Lianchong and Li, Chao and Zou, Weitao and Jing, Weipeng and Emam, Mahmoud},
-  journal={IEEE Internet of Things Journal},
+  journal={IEEE Internet of Things Journal}, 
+  title={Prototype-Aligned Federated Learning for Robust Object Extraction in Heterogeneous Remote Sensing}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={12},
+  number={18},
+  pages={38926-38942},
+  keywords={Feature extraction;Remote sensing;Prototypes;Data models;Internet of Things;Data mining;Collaboration;Training;Measurement;Data privacy;Federated learning (FL);object extraction;prototype learning;remote sensing;smart city},
+  doi={10.1109/JIOT.2025.3587683}}
 ```
