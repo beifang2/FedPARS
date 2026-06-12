@@ -79,7 +79,6 @@ If you find our repository useful, please cite the corresponding paper:
   volume={12},
   number={18},
   pages={38926-38942},
-  keywords={Feature extraction;Remote sensing;Prototypes;Data models;Internet of Things;Data mining;Collaboration;Training;Measurement;Data privacy;Federated learning (FL);object extraction;prototype learning;remote sensing;smart city},
   doi={10.1109/JIOT.2025.3587683}
 }
 ```
